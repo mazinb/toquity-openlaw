@@ -1,0 +1,24 @@
+{
+  "name": "toquity-openlaw",
+  "version": "1.0.0",
+  "description": "openlaw nodejs integration by toquity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mazinb/toquity-openlaw.git"
+  },
+  "keywords": [
+    "toquity",
+    "openlaw",
+    "ethereum"
+  ],
+  "author": "Mazin Biviji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazinb/toquity-openlaw/issues"
+  },
+  "homepage": "https://github.com/mazinb/toquity-openlaw#readme"
+}
